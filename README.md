@@ -93,7 +93,20 @@ f. Improved Communication - This provides a simple, visual way to share project 
 g. Adjusting to Changes - It easily updates the schedule to reflect changes in tasks or deadlines.
 i. Priority Setting - It identifies which tasks are critical to meeting overall project goals.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
+**Core Issues that software aims to address**
+- User experience and accessibility -Most software solutions are overly complex, difficult to use, or inaccessible to users with different levels of technical expertise.
+- Efficiency and Time Management - Manual or inefficient processes often waste time, leading to lower productivity.
+- Cost- Effectiveness - Existing software solutions might be too expensive or offer a poor return on investment.
+- Security and Data Privacy - With increasing cyber threats, users are concerned about data breaches and privacy.
+- Customization and Scalablity - Generic software may not meet the specific needs of a diverse user base, and may not grow with the business.
+- Integration with Existing Systems - Software that doesn’t integrate well with existing tools causes inefficiencies and additional manual work.
+**Significant of the core issues to the target audience**
+- Users seek intuitive and accessible software that makes their lives easier. Complexity leads to frustration, reducing productivity and adoption rates.
+- Your target audience likely values solutions that help them save time, streamline workflows, and increase productivity.
+- Affordability is key, especially for businesses or individuals who are price-sensitive. They want tools that offer tangible value without breaking the bank.
+- Software that offers robust security solutions will be attractive, especially to businesses handling sensitive customer data.
+- Users value software that can be tailored to their needs and can evolve as they scale.
+- Seamless integration with other tools and systems is crucial for businesses or users who rely on a cohesive digital ecosystem.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
